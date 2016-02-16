@@ -6,7 +6,7 @@ body {
 	width: auto;
 }
 body #page {
-	background: url("../images/bg-home.jpg") no-repeat scroll center top #000000;
+	background: url("http://www.ecnmag.com/sites/ecnmag.com/files/FreeGreatPicture.com-12455-robot-picture.jpg") no-repeat scroll center top #000000;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
@@ -25,7 +25,7 @@ img {
 }
 /*-------------------------------------------FONTS---------------------------------------------*/
 @font-face {
-	font-family: 'audiowide-regular-webfont';
+	font-family: 'comic sans';
 	src: url('../fonts/audiowide-regular-webfont.eot');
 	src: url('../fonts/audiowide-regular-webfont.woff') format('woff'), url('../fonts/audiowide-regular-webfont.ttf') format('truetype'), url('../fonts/audiowide-regular-webfont.svg') format('svg');
 }
@@ -72,9 +72,9 @@ img {
 	width: auto;
 }
 #header div ul li a {
-	color: #ffffff;
+	color: #black;
 	display: block;
-	font-family: Arial;
+	font-family: Comic Sans;
 	font-size: 18px;
 	font-weight: normal;
 	line-height: 59px;
@@ -88,7 +88,7 @@ img {
 }
 #header div ul li a:hover {
 	background-color: #620031;
-	color: #ffffff;
+	color: black;
 }
 #header div ul li.selected a {
 	background-color: #000000;
@@ -127,9 +127,9 @@ img {
 }
 #header div ul li.menu ul li a {
 	background-color: #620031;
-	color: #ffffff;
+	color: #black;
 	display: block;
-	font-family: Arial;
+	font-family: Comic Sans;
 	font-size: 18px;
 	font-weight: normal;
 	line-height: 60px;
@@ -186,10 +186,10 @@ img {
 	z-index: 50;
 }
 #body.home .header div h1 {
-	color: #FFFFFF;
+	color: #black;
 	display: block;
 	float: right;
-	font-family: audiowide-regular-webfont;
+	font-family: "comic sans";
 	font-size: 60px;
 	font-weight: normal;
 	line-height: 60px;
@@ -202,10 +202,10 @@ img {
 	z-index: 60;
 }
 #body.home .header div h2 {
-	color: #FFFFFF;
+	color: #black;
 	display: block;
 	float: right;
-	font-family: Arial;
+	font-family: "comic sans;
 	font-size: 43px;
 	font-weight: normal;
 	line-height: 43px;
@@ -222,7 +222,7 @@ img {
 	color: #a3a3a3;
 	display: block;
 	float: right;
-	font-family: Arial;
+	font-family: "comic sans";
 	font-size: 18px;
 	font-weight: normal;
 	height: 49px;
@@ -237,7 +237,7 @@ img {
 }
 #body.home .header div a.more:hover {
 	background-color: #ab000b;
-	color: #ffffff;
+	color: #black;
 }
 #body.home .header div h3 {
 	background: url("../images/bg-transparent1.png") repeat;
@@ -310,7 +310,7 @@ img {
 	padding: 31px 10px 0;
 }
 #body.home .body div h1 {
-	color: #FFFFFF;
+	color: #black;
 	display: block;
 	font-family: audiowide-regular-webfont;
 	font-size: 32px;
