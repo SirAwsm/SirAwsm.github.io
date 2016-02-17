@@ -139,6 +139,7 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 	width: auto;
+	
 }
 #header div ul li.menu ul.primary.selected li a, #header div ul li.menu ul.secondary.selected li a {
 	background-color: #000000;
