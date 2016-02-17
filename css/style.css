@@ -25,7 +25,7 @@ img {
 }
 /*-------------------------------------------FONTS---------------------------------------------*/
 @font-face {
-	font-family: 'Comic Sans MS';
+	font-family: 'comic sans';
 	src: url('../fonts/audiowide-regular-webfont.eot');
 	src: url('../fonts/audiowide-regular-webfont.woff') format('woff'), url('../fonts/audiowide-regular-webfont.ttf') format('truetype'), url('../fonts/audiowide-regular-webfont.svg') format('svg');
 }
@@ -74,7 +74,7 @@ img {
 #header div ul li a {
 	color: #black;
 	display: block;
-	font-family: Arial;
+	font-family: Comic Sans;
 	font-size: 18px;
 	font-weight: normal;
 	line-height: 59px;
