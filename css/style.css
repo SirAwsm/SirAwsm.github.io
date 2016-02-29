@@ -128,7 +128,7 @@ img {
 #header div ul li.menu ul li a {
 	background-color: #00ff00;
 	color: #black;
-	display: block;
+	display: black;
 	font-family: Arial;
 	font-size: 18px;
 	font-weight: normal;
