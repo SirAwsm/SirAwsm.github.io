@@ -1,4 +1,4 @@
-/* Website template by freewebsitetemplates.com */
+
 body {
 	margin: 0;
 	padding: 0;
@@ -82,7 +82,7 @@ img {
 	min-height: 60px;
 	padding: 0 24px;
  *padding: 0 23px; 
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -136,7 +136,7 @@ img {
 	margin: 0;
 	min-height: 60px;
 	padding: 0 10px;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -229,7 +229,7 @@ img {
 	line-height: 49px;
 	margin: 0 200px 0 0;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	position: relative;
 	width: 180px;
@@ -252,7 +252,7 @@ img {
 	min-height: 27px;
 	padding: 17px 0 10px;
 	position: relative;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 940px;
 }
@@ -318,7 +318,7 @@ img {
 	line-height: 32px;
 	margin: 0 auto 24px;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 780px;
 }
@@ -331,7 +331,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	width: 780px;
 }
 #body.home .body div p a {
@@ -509,7 +509,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 120px;
 }
@@ -539,7 +539,7 @@ img {
 	line-height: 36px;
 	margin: 0 auto 87px;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 940px;
 }
@@ -552,7 +552,7 @@ img {
 	line-height: 32px;
 	margin: 0 auto 24px;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 820px;
 }
@@ -565,7 +565,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	width: 820px;
 }
 #body.about .header div p a {
@@ -722,7 +722,7 @@ img {
 	line-height: 23px;
 	margin: 0 auto 26px;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 780px;
 }
@@ -735,7 +735,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	width: 780px;
 }
 #body.about .section div p a {
@@ -854,7 +854,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 120px;
 }
@@ -876,7 +876,7 @@ img {
 	line-height: 23px;
 	margin: 0 auto;
 	padding: 53px 0 27px;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 780px;
 }
@@ -889,7 +889,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto 48px;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	width: 780px;
 }
 #body .header div p a {
@@ -1014,7 +1014,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 120px;
 }
@@ -1231,7 +1231,7 @@ img {
 	line-height: 23px;
 	margin: 0 auto;
 	padding: 8px 0 62px;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 500px;
 }
@@ -1288,7 +1288,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: center;
+	text-align: left;
 	text-transform: uppercase;
 	width: 120px;
 }
