@@ -82,7 +82,7 @@ img {
 	min-height: 60px;
 	padding: 0 24px;
  *padding: 0 23px; 
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -136,7 +136,7 @@ img {
 	margin: 0;
 	min-height: 60px;
 	padding: 0 10px;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -196,7 +196,7 @@ img {
 	margin: 187px 0 27px;
 	padding: 0 38px 0 399px;
 	position: relative;
-	text-align: right;
+	text-align: center;
 	text-transform: uppercase;
 	width: 503px;
 	z-index: 60;
@@ -212,7 +212,7 @@ img {
 	margin: 0 0 36px;
 	padding: 0 146px 0 506px;
 	position: relative;
-	text-align: right;
+	text-align: center;
 	text-transform: uppercase;
 	width: 288px;
 	z-index: 60;
@@ -229,7 +229,7 @@ img {
 	line-height: 49px;
 	margin: 0 200px 0 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	position: relative;
 	width: 180px;
@@ -252,7 +252,7 @@ img {
 	min-height: 27px;
 	padding: 17px 0 10px;
 	position: relative;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 940px;
 }
@@ -318,7 +318,7 @@ img {
 	line-height: 32px;
 	margin: 0 auto 24px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 780px;
 }
@@ -331,7 +331,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 780px;
 }
 #body.home .body div p a {
@@ -388,7 +388,7 @@ img {
 	line-height: 32px;
 	margin: 0 0 44px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -479,7 +479,7 @@ img {
 	line-height: 23px;
 	margin: 0;
 	padding: 4px 0 8px;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 310px;
 }
@@ -493,7 +493,7 @@ img {
 	line-height: 14px;
 	margin: 0 0 10px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 310px;
 }
@@ -509,7 +509,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 120px;
 }
@@ -539,7 +539,7 @@ img {
 	line-height: 36px;
 	margin: 0 auto 87px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 940px;
 }
@@ -552,7 +552,7 @@ img {
 	line-height: 32px;
 	margin: 0 auto 24px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 820px;
 }
@@ -565,7 +565,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 820px;
 }
 #body.about .header div p a {
@@ -604,7 +604,7 @@ img {
 	line-height: 23px;
 	margin: 18px 0 26px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 620px;
 }
@@ -618,7 +618,7 @@ img {
 	line-height: 24px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 620px;
 }
 #body.about .body div p a {
@@ -663,7 +663,7 @@ img {
 	line-height: 23px;
 	margin: 34px 0 24px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 557px;
 }
@@ -677,7 +677,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 557px;
 }
 #body.about .footer div p a {
@@ -722,7 +722,7 @@ img {
 	line-height: 23px;
 	margin: 0 auto 26px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 780px;
 }
@@ -735,7 +735,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 780px;
 }
 #body.about .section div p a {
@@ -810,7 +810,7 @@ img {
 	line-height: 23px;
 	margin: 0 0 26px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 520px;
 }
@@ -822,7 +822,7 @@ img {
 	line-height: 24px;
 	margin: 0 0 41px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 520px;
 }
 #body .header div ul li div p a {
@@ -854,7 +854,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 120px;
 }
@@ -876,7 +876,7 @@ img {
 	line-height: 23px;
 	margin: 0 auto;
 	padding: 53px 0 27px;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 780px;
 }
@@ -889,7 +889,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto 48px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: 780px;
 }
 #body .header div p a {
@@ -957,7 +957,7 @@ img {
 	line-height: 23px;
 	margin: 0 0 8px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -970,7 +970,7 @@ img {
 	line-height: 14px;
 	margin: 0 0 28px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -982,7 +982,7 @@ img {
 	line-height: 24px;
 	margin: 0 0 29px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: auto;
 }
 #body .header div .article ul li p a {
@@ -1014,7 +1014,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 120px;
 }
@@ -1053,7 +1053,7 @@ img {
 	line-height: 32px;
 	margin: 0 0 25px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 340px;
 }
@@ -1086,7 +1086,7 @@ img {
 	line-height: 23px;
 	margin: 0 0 7px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -1099,7 +1099,7 @@ img {
 	line-height: 14px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -1150,7 +1150,7 @@ img {
 	line-height: 23px;
 	margin: 6px 0 11px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 260px;
 }
@@ -1163,7 +1163,7 @@ img {
 	line-height: 14px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -1181,7 +1181,7 @@ img {
 	line-height: 23px;
 	margin: 0 0 7px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -1194,7 +1194,7 @@ img {
 	line-height: 14px;
 	margin: 0 0 29px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: auto;
 }
@@ -1206,7 +1206,7 @@ img {
 	line-height: 24px;
 	margin: 0 0 24px;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	width: auto;
 }
 #body .header div .article p a {
@@ -1231,7 +1231,7 @@ img {
 	line-height: 23px;
 	margin: 0 auto;
 	padding: 8px 0 62px;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 500px;
 }
@@ -1253,7 +1253,7 @@ img {
 	line-height: 43px;
 	margin: 0 0 29px;
 	padding: 0 0 0 20px;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 441px;
 }
@@ -1271,7 +1271,7 @@ img {
 	overflow: auto;
 	padding: 15px 0 0 20px;
 	resize: none;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 441px;
 }
@@ -1288,7 +1288,7 @@ img {
 	line-height: 31px;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 120px;
 }
@@ -1324,7 +1324,7 @@ img {
 	line-height: 23px;
 	margin: 0;
 	padding: 8px 25px 0 0;
-	text-align: right;
+	text-align: center;
 	text-transform: uppercase;
 	width: 525px;
 }
@@ -1399,7 +1399,7 @@ img {
 	font-weight: normal;
 	margin: 0 auto;
 	padding: 0;
-	text-align: left;
+	text-align: center;
 	text-transform: uppercase;
 	width: 940px;
 }
