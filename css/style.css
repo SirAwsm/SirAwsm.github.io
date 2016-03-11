@@ -188,7 +188,7 @@ img {
 #body.home .header div h1 {
 	color: #black;
 	display: block;
-	float: right;
+	float: center;
 	font-family: "comic sans";
 	font-size: 60px;
 	font-weight: normal;
